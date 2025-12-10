@@ -1,4 +1,0 @@
-<h1>My First Cloud Deployment</h1>
-<h2>Hello, my name is MARK HENSCHEL C. CORPUZ</h2>
-<img src="https://i.im.ge/2025/12/10/4zkFSK.117870049-1383999635131489-1696003327329079159-n.jpeg" width="200"/>
-<p>This is my first deployed website!</p>
